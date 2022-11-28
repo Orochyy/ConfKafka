@@ -8,7 +8,7 @@ import (
 
 func main() {
 
-	fmt.Println("Okey...")
+	fmt.Println("Okay...")
 
 	kaffka.StartKafka()
 	fmt.Println("Kaffka started")
